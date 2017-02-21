@@ -1,0 +1,20 @@
+.fixedtop{
+	background-color: green;
+}
+.logoleft{
+	max-width: 100%;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+.logoright{
+	max-width: 100%;
+	position: relative;
+	top: 0px;
+	right: 0px;
+}
+h1{
+	font: sans-serif;
+	font-size: 100px;
+	text-align: center;
+}
