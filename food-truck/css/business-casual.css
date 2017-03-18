@@ -121,6 +121,10 @@ footer p {
     padding: 1%;
 }
 
+#menu {
+    max-width: 100%;
+}
+
 #menumain {
     max-width: 50%;
 }
